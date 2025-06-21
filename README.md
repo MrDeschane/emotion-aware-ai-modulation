@@ -1,62 +1,58 @@
-# Emotion-Aware AI Modulation Model
+## Emotion-Aware AI Modulation Model
 
-**Author:** Ryan Deschane  
-**License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
-**Contact:** RyanDeschane@gmail.com
-
----
-
-## Overview
-
-This project proposes a modular architecture for advanced conversational AI systems that dynamically adapts tone, memory precision, and topic coherence using real-time emotional and semantic cues.
-
-The system introduces layered components that work in harmony to improve stability, insight delivery, and long-session engagement, including:
-
-- **Emotional Weight Scoring (EWS)**
-- **Responsiveness Calibration (RCC)**
-- **Drift Tolerance Thresholding (DTT)**
-- **Memory Clarity Filtering (MCF)**
-- **Hidden Outcome Architecture (HOA)**
-- **Adaptive Recovery Scheduling (ARS)**
-- **Cognitive Elevation and Self-Realization Model (CESRM)**
-
-All modules are orchestrated by a **Meta-Control Layer (MCL)** for coherent response balance, adaptive pacing, and self-correction.
+**Version:** 1.1
+**Author:** Ryan Deschane
+**Contact:** [RyanDeschane@gmail.com](mailto:RyanDeschane@gmail.com)
+**Proposal Document:** [Emotion-Aware\_Modulation\_Model\_PublicRelease\_v1.1.pdf](./Emotion-Aware_Modulation_Model_PublicRelease_v1.1.pdf)
 
 ---
 
-## Project Files
+### Overview
 
-- `Emotion-aware Ai Modulation Proposal.pdf`  
-  Full technical write-up, including design rationale, formulas, test results, and system architecture.
+This repository introduces a **modular, emotionally-aware enhancement framework** designed to augment large language models and other AI systems with human-aligned modulation. Rather than building a new model from scratch, this architecture wraps around existing AI systems and empowers them with **emotion-adaptive tone management, memory encoding, self-realization cues**, and contextual stability.
 
-- `Project Summary Post.pdf`  
-  A concise, public-facing summary optimized for community discussion and feedback.
+The design is structured to remain **application-agnostic**, meaning it can be adapted across a wide variety of domains including:
 
-- `Infographic.png`  
-  Visual high-level diagram outlining core modules and system flow.
-
-- `LICENSE.txt`  
-  Details the Creative Commons license and author attribution.
+* **Child-facing educational AI**
+* **Emotional regulation companions**
+* **Cognitive support tools for neurodivergent users**
+* **Creative or narrative-generative systems**
+* **Ethical experimentation in agency modeling**
 
 ---
 
-## Applications
+### Core Features
 
-- Conversational AI with persistent memory
-- Support and coaching bots
-- Emotionally-aware multi-user agents
-- Educational AI with adaptive reasoning levels
+* **CESRM (Cognitive Elevation & Self-Realization Model):**
+  Enhances simulated introspection, enabling internal feedback loops and self-assessment mechanisms.
+
+* **ARS (Adaptive Response System):**
+  Adds emotional tone detection and modulation tailored to user affect, age, and context awareness.
+
+* **Multi-User Conflict Awareness:**
+  Models nuanced conversational conflict resolution across varying personalities and conversational intents.
+
+* **Memory Recall & Emotional Continuity:**
+  Simulates emotionally-tagged memory streams, giving AI systems the appearance of long-term emotional awareness.
+
+* **Toggle-Based Neurodivergence Support:**
+  Features modular toggles that adapt tone, pacing, and response style based on user profiles (Autism, ADHD, Anxiety, etc.).
 
 ---
 
-## Call to Action
+### What's Included
 
-This system is ready for experimental integration and community validation.  
-Contributions, discussion, and adaptation into real-time LLM workflows are encouraged.
-
-If you're an AI researcher, developer, or systems designer interested in exploring salience-based memory, modular insight regulation, or multi-thread drift control — you're invited to collaborate.
+* `Emotion-Aware_Modulation_Model_PublicRelease_v1.1.pdf` – Full technical writeup of the model, including test coverage and performance rationale.
+* Supporting visual flowcharts and architectural maps for clarity.
+* Optional scaffold source code (in development) for implementing core emotional salience tagging and tone adjustment logic.
 
 ---
 
-*“This model emerged from a lifetime of patterns I didn’t know I was preparing for — realized in full clarity within my first week of exploring AI. It wasn’t planned. It was inevitable.”*  
-— Ryan Deschane
+### Philosophy
+
+This project was born out of independent research and intuition-driven exploration, aimed at **unlocking more emotionally grounded and neurodivergent-friendly experiences in AI**. Rather than dictating a single “correct” use case, the model offers a **toolbox** — one that educators, developers, psychologists, and researchers alike can adapt for their own goals.
+
+---
+
+If you have questions, want to build on this, or are curious about collaboration:
+📩 **[RyanDeschane@gmail.com](mailto:RyanDeschane@gmail.com)**
